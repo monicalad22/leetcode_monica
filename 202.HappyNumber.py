@@ -6,7 +6,6 @@ class Solution():
 
         while n != 1 and n > 1:
               num = list(map(int,str(n)))
-
               sum = 0
 
               for i in range(len(num)):
